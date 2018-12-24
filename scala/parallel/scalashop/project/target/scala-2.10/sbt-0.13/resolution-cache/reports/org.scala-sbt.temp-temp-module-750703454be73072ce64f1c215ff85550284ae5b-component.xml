@@ -7,14 +7,14 @@
 		revision="0.13.17"
 		conf="component"
 		confs="component"
-		date="20181222203650"/>
+		date="20181224122804"/>
 	<dependencies>
 		<module organisation="org.scala-sbt" name="compiler-interface">
 			<revision name="0.13.17" status="release" pubdate="20180131144915" resolver="sbt-chain" artresolver="sbt-chain" downloaded="false" searched="false" default="false" conf="compile, default(compile)" position="0">
 				<metadata-artifact status="no" details="" size="1802" time="0" location="/home/mikcorer/.ivy2/cache/org.scala-sbt/compiler-interface/ivy-0.13.17.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/compiler-interface/0.13.17/ivys/ivy.xml"/>
 				<caller organisation="org.scala-sbt.temp" name="temp-module-750703454be73072ce64f1c215ff85550284ae5b" conf="component" rev="0.13.17" rev-constraint-default="0.13.17" rev-constraint-dynamic="0.13.17" callerrev="0.13.17"/>
 				<artifacts>
-					<artifact name="compiler-interface" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="32918" time="2752" location="/home/mikcorer/.ivy2/cache/org.scala-sbt/compiler-interface/srcs/compiler-interface-0.13.17-sources.jar">
+					<artifact name="compiler-interface" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="32918" time="2708" location="/home/mikcorer/.ivy2/cache/org.scala-sbt/compiler-interface/srcs/compiler-interface-0.13.17-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/compiler-interface/0.13.17/srcs/compiler-interface-sources.jar"/>
 					</artifact>
 				</artifacts>

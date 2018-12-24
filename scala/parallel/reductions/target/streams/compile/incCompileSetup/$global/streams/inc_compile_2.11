@@ -1,0 +1,636 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+42 items
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> /home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/common/package$.class
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> /home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/common/package$DefaultTaskScheduler$$anon$1.class
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> /home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/common/package$DefaultTaskScheduler.class
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> /home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/common/package$TaskScheduler.class
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> /home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/common/package.class
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> /home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$4.class
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> /home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$5.class
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> /home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$downsweep$1.class
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> /home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$downsweep$2.class
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> /home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$lineOfSight$1.class
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> /home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/LineOfSight$.class
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> /home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/LineOfSight$Leaf$.class
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> /home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/LineOfSight$Leaf.class
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> /home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/LineOfSight$Node$.class
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> /home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/LineOfSight$Node.class
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> /home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/LineOfSight$Tree.class
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> /home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/LineOfSight.class
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> /home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/LineOfSightRunner$$anonfun$1.class
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> /home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/LineOfSightRunner$$anonfun$2.class
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> /home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/LineOfSightRunner$$anonfun$3.class
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> /home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/LineOfSightRunner$.class
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> /home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/LineOfSightRunner.class
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$$anonfun$3.class
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$$anonfun$4.class
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$$anonfun$combinedThreshold$1.class
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$$anonfun$moneyThreshold$1.class
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$$anonfun$totalCoinsThreshold$1.class
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$.class
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/ParallelCountChange.class
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/ParallelCountChangeRunner$$anonfun$1.class
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/ParallelCountChangeRunner$$anonfun$2.class
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/ParallelCountChangeRunner$.class
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/ParallelCountChangeRunner.class
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancing$$anonfun$3.class
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancing$$anonfun$4.class
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancing$$anonfun$balance$1.class
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancing$.class
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancing.class
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancingRunner$$anonfun$1.class
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancingRunner$$anonfun$2.class
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancingRunner$.class
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancingRunner.class
+binary dependencies:
+11 items
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> /home/mikcorer/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7.jar
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> /home/mikcorer/.cache/coursier/v1/https/repo1.maven.org/maven2/com/storm-enroute/scalameter-core_2.11/0.6/scalameter-core_2.11-0.6.jar
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> /home/mikcorer/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7.jar
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /home/mikcorer/.cache/coursier/v1/https/repo1.maven.org/maven2/com/storm-enroute/scalameter-core_2.11/0.6/scalameter-core_2.11-0.6.jar
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /home/mikcorer/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7.jar
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /home/mikcorer/.cache/coursier/v1/https/repo1.maven.org/maven2/com/storm-enroute/scalameter-core_2.11/0.6/scalameter-core_2.11-0.6.jar
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /home/mikcorer/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7.jar
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+3 items
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> /home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+42 items
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> common.package
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> common.package$
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> common.package$DefaultTaskScheduler
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> common.package$DefaultTaskScheduler$$anon$1
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> common.package$TaskScheduler
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight$
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight$$anonfun$4
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight$$anonfun$5
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight$$anonfun$downsweep$1
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight$$anonfun$downsweep$2
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight$$anonfun$lineOfSight$1
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight$Leaf
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight$Leaf$
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight$Node
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight$Node$
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight$Tree
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSightRunner
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSightRunner$
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSightRunner$$anonfun$1
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSightRunner$$anonfun$2
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSightRunner$$anonfun$3
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> reductions.ParallelCountChange
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> reductions.ParallelCountChange$
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> reductions.ParallelCountChange$$anonfun$3
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> reductions.ParallelCountChange$$anonfun$4
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> reductions.ParallelCountChange$$anonfun$combinedThreshold$1
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> reductions.ParallelCountChange$$anonfun$moneyThreshold$1
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> reductions.ParallelCountChange$$anonfun$totalCoinsThreshold$1
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> reductions.ParallelCountChangeRunner
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> reductions.ParallelCountChangeRunner$
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> reductions.ParallelCountChangeRunner$$anonfun$1
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> reductions.ParallelCountChangeRunner$$anonfun$2
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> reductions.ParallelParenthesesBalancing
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> reductions.ParallelParenthesesBalancing$
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> reductions.ParallelParenthesesBalancing$$anonfun$3
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> reductions.ParallelParenthesesBalancing$$anonfun$4
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> reductions.ParallelParenthesesBalancing$$anonfun$balance$1
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> reductions.ParallelParenthesesBalancingRunner
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> reductions.ParallelParenthesesBalancingRunner$
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> reductions.ParallelParenthesesBalancingRunner$$anonfun$1
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> reductions.ParallelParenthesesBalancingRunner$$anonfun$2
+used names:
+403 items
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> $anon
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> <byname>
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> <init>
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> ?0
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> A
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> Any
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> AnyRef
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> B
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> Boolean
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> C
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> D
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> DefaultTaskScheduler
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> DynamicVariable
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> ForkJoinPool
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> ForkJoinTask
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> Nothing
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> Object
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> RecursiveTask
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> T
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> T1
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> T2
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> T3
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> T4
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> TaskScheduler
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> Thread
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> Tuple2
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> Tuple4
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> Unit
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> _root_
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> body
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> common
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> concurrent
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> currentThread
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> execute
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> fork
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> forkJoinPool
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> isInstanceOf
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> java
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> join
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> lang
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> left
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> package
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> parallel
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> right
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> scala
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> schedule
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> scheduler
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> t
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> ta
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> task
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> taskA
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> taskB
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> taskC
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> taskD
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> tb
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> tc
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> td
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> util
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> value
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> %
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> &&
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> *
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> +
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> -
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> ->
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> /
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> <
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> <=
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> <byname>
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> <init>
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> <repeated>
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> ==
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> >
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> A
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> AbstractFunction2
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> AbstractFunction3
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> Any
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> AnyRef
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> Array
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> ArrowAssoc
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> B
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> Boolean
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> CanBuildFrom
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> ClassTag
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> Coll
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> Default
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> Double
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> Float
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> Function1
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> IndexOutOfBoundsException
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> IndexedSeq
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> Int
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> Iterator
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> Key
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> KeyValue
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> KeyWithDefault
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> Leaf
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> LineOfSight
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> LineOfSightRunner
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> MatchError
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> MeasureBuilder
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> Node
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> None
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> Nothing
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> Object
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> Predef
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> Product
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> Range
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> RichFloat
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> RichInt
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> S
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> ScalaRunTime
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> Serializable
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> Some
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> Statics
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> String
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> StringContext
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> T
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> T0
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> T1
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> T2
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> T3
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> That
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> Tree
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> Tuple2
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> Tuple3
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> U
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> Unit
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> Warmer
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> _1
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> _2
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> _hashCode
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> _toString
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> a
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> apply
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> asInstanceOf
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> b
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> benchRuns
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> canBuildFrom
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> common
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> config
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> downsweep
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> downsweepSequential
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> end
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> eq
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> exec
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> finalizeHash
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> floatHash
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> floatWrapper
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> foreach
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> from
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> i
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> immutable
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> input
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> intWrapper
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> isInstanceOf
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> left
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> length
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> lineOfSight
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> map
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> materializeClassTag
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> max
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> maxAngle
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> maxPrevious
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> maxWarmupRuns
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> measure
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> mid
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> minWarmupRuns
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> mix
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> ne
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> org
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> output
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> package
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> parLineOfSight
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> parallel
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> partime
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> println
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> right
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> root
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> runtime
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> s
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> scala
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> scalameter
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> seqtime
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> standardConfig
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> startingAngle
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> t1
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> t2
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> threshold
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> toArray
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> toString
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> tree
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> typedProductIterator
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> unchecked
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> until
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> update
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> upsweep
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> upsweepSequential
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> verbose
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> while$1
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> while$2
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> withWarmer
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> ||
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> &&
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> *
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> +
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> -
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> ->
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> ::
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> <
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> <=
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> <byname>
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> <init>
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> <repeated>
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> ==
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> >
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> A
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Any
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> AnyRef
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Array
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> ArrowAssoc
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> B
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Boolean
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Default
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Double
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Function2
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Int
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Key
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> KeyValue
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> KeyWithDefault
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> List
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> MatchError
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> MeasureBuilder
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Nil
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Nothing
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Object
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> ParallelCountChange
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> ParallelCountChangeRunner
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Predef
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> S
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> String
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> StringContext
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> T0
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> T1
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> T2
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Threshold
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Tuple2
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Unit
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Warmer
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> _1
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> _2
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> _root_
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> allCoins
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> amount
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> apply
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> asInstanceOf
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> benchRuns
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> checkMoneyAndCoins
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> coins
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> combinedThreshold
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> common
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> config
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> countChange
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> currentMoney
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> exec
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> fjtime
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> head
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> immutable
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> isInstanceOf
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> length
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> maxWarmupRuns
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> measure
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> measureParallelCountChange
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> minWarmupRuns
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> money
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> moneyThreshold
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> ne
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> org
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> package
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> parCountChange
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> parResult
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> parResult_=
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> parallel
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> println
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> reductions
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> s
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> scala
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> scalameter
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> seqResult
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> seqResult_=
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> seqtime
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> standardConfig
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> startingMoney
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> t1
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> t2
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> tail
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> threshold
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> totalCoins
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> totalCoinsThreshold
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> unary_!
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> unchecked
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> verbose
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> withWarmer
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> x
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> xs
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> ||
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> +
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> -
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> ->
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> <
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> <=
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> <byname>
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> <init>
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> <repeated>
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> ==
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> A
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Any
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> AnyRef
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Array
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> ArrayOps
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> ArrowAssoc
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> B
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Boolean
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Char
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Default
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Double
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Function2
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Int
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Key
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> KeyValue
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> KeyWithDefault
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> MatchError
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> MeasureBuilder
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Nothing
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Object
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> ParallelParenthesesBalancing
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> ParallelParenthesesBalancingRunner
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Predef
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> RichInt
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> S
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> String
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> StringContext
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> T1
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> T2
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Tuple2
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Unit
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Warmer
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> _1
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> _2
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> annotation
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> apply
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> b
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> balance
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> benchRuns
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> ch
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> charArrayOps
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> chars
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> common
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> config
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> exec
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> fjtime
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> foldLeft
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> from
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> i
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> idx
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> intWrapper
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> length
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> maxWarmupRuns
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> measure
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> mid
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> min
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> minWarmupRuns
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> ne
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> newBalance
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> org
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> package
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> parBalance
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> parResult
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> parResult_=
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> parallel
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> println
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> reduce
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> reductions
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> s
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> scala
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> scalameter
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> seqResult
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> seqResult_=
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> seqtime
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> standardConfig
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> t1
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> t2
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> threshold
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> toInt
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> traverse
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> unchecked
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> until
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> verbose
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> while$1
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> withWarmer
+product stamps:
+42 items
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/common/package$.class -> lastModified(1545666893000)
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/common/package$DefaultTaskScheduler$$anon$1.class -> lastModified(1545666893000)
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/common/package$DefaultTaskScheduler.class -> lastModified(1545666893000)
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/common/package$TaskScheduler.class -> lastModified(1545666893000)
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/common/package.class -> lastModified(1545666893000)
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$4.class -> lastModified(1545672485000)
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$5.class -> lastModified(1545672485000)
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$downsweep$1.class -> lastModified(1545672485000)
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$downsweep$2.class -> lastModified(1545672485000)
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$lineOfSight$1.class -> lastModified(1545672485000)
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/LineOfSight$.class -> lastModified(1545672485000)
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/LineOfSight$Leaf$.class -> lastModified(1545672485000)
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/LineOfSight$Leaf.class -> lastModified(1545672485000)
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/LineOfSight$Node$.class -> lastModified(1545672485000)
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/LineOfSight$Node.class -> lastModified(1545672485000)
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/LineOfSight$Tree.class -> lastModified(1545672485000)
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/LineOfSight.class -> lastModified(1545672485000)
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/LineOfSightRunner$$anonfun$1.class -> lastModified(1545672485000)
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/LineOfSightRunner$$anonfun$2.class -> lastModified(1545672485000)
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/LineOfSightRunner$$anonfun$3.class -> lastModified(1545672485000)
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/LineOfSightRunner$.class -> lastModified(1545672485000)
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/LineOfSightRunner.class -> lastModified(1545672485000)
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$$anonfun$3.class -> lastModified(1545667513000)
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$$anonfun$4.class -> lastModified(1545667513000)
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$$anonfun$combinedThreshold$1.class -> lastModified(1545667513000)
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$$anonfun$moneyThreshold$1.class -> lastModified(1545667513000)
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$$anonfun$totalCoinsThreshold$1.class -> lastModified(1545667513000)
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$.class -> lastModified(1545667513000)
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/ParallelCountChange.class -> lastModified(1545667513000)
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/ParallelCountChangeRunner$$anonfun$1.class -> lastModified(1545667513000)
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/ParallelCountChangeRunner$$anonfun$2.class -> lastModified(1545667513000)
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/ParallelCountChangeRunner$.class -> lastModified(1545667513000)
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/ParallelCountChangeRunner.class -> lastModified(1545667513000)
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancing$$anonfun$3.class -> lastModified(1545666893000)
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancing$$anonfun$4.class -> lastModified(1545666893000)
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancing$$anonfun$balance$1.class -> lastModified(1545666893000)
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancing$.class -> lastModified(1545666893000)
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancing.class -> lastModified(1545666893000)
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancingRunner$$anonfun$1.class -> lastModified(1545666893000)
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancingRunner$$anonfun$2.class -> lastModified(1545666893000)
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancingRunner$.class -> lastModified(1545666893000)
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancingRunner.class -> lastModified(1545666893000)
+source stamps:
+4 items
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> hash(19ffe96b09c84ba566e866c51bacad3b301b2c11)
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> hash(9facd5cdf7b557db429c603fa9bb0e2ae5bf58c6)
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> hash(114c68d69a31e130a5a6febbdfcff6dde7fef8eb)
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> hash(b1217f8abf5b5951505e0711103aabf26b14e339)
+binary stamps:
+3 items
+/home/mikcorer/.cache/coursier/v1/https/repo1.maven.org/maven2/com/storm-enroute/scalameter-core_2.11/0.6/scalameter-core_2.11-0.6.jar -> lastModified(1405518657000)
+/home/mikcorer/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7.jar -> lastModified(1435004218000)
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> lastModified(1527178116000)
+class names:
+3 items
+/home/mikcorer/.cache/coursier/v1/https/repo1.maven.org/maven2/com/storm-enroute/scalameter-core_2.11/0.6/scalameter-core_2.11-0.6.jar -> org.scalameter.Warmer$
+/home/mikcorer/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7.jar -> scala.Serializable
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+4 items
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwso2RrgABc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAcc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw6466WnQABm5vdGlmeXNxAH4ADLd7app0AAdwYWNrYWdlc3EAfgAM60dllnQABHdhaXRzcQB+AAxFEfvWdAAEdGFza3NxAH4ADFdaVZl0AA0kYXNJbnN0YW5jZU9mc3EAfgAMLZS+xHQAFERlZmF1bHRUYXNrU2NoZWR1bGVyc3EAfgAM/pUpbXQABmVxdWFsc3NxAH4ADE48rut0AAxhc0luc3RhbmNlT2ZzcQB+AAxHd91ldAAMc3luY2hyb25pemVkc3EAfgAMBJ7vw3QADSRpc0luc3RhbmNlT2ZzcQB+AAzWCh9fdAAMZm9ya0pvaW5Qb29sc3EAfgAMNUekVHQACW5vdGlmeUFsbHNxAH4ADHLyoyJ0AAxpc0luc3RhbmNlT2ZzcQB+AAxPOtqWdAAGPGluaXQ+c3EAfgAMQiN1EHQACXNjaGVkdWxlcnNxAH4ADH8bLs50AAI9PXNxAH4ADM05Ry50AA1UYXNrU2NoZWR1bGVyc3EAfgAMHLnUSnQABWNsb25lc3EAfgAMwf8sL3QACHNjaGVkdWxlc3EAfgAMyRmNSnQACHRvU3RyaW5nc3EAfgAM+6VKv3QAAiE9c3EAfgAMiWCwDXQACGdldENsYXNzc3EAfgAM2TMwbXQAAm5lc3EAfgAMYlMrU3QAAmVxc3EAfgAMn/ZIHXQACHBhcmFsbGVsc3EAfgAMYOwlInQAAiMjc3EAfgAMyHKxL3QACGZpbmFsaXplc3EAfgAME2KubXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AT3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQADmNvbW1vbi5wYWNrYWdldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBnc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AE9MAAlpbmhlcml0ZWRxAH4AT0wAB3BhcmVudHNxAH4AT3hxAH4AbHNxAH4AZ3VxAH4ASgAAAABzcQB+AGd1cQB+AEoAAAAAc3EAfgBndXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBrdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBrc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCEdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCFc3EAfgB4dAADQW55c3EAfgB8c3EAfgB/dXEAfgCCAAAAAnNxAH4AhHQABXNjYWxhcQB+AIt1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZjb21tb25zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWfg7PdzdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAYy9ob21lL21pa2NvcmVyL2NvdXJzZXJhL2NvdXJzZXJhLXNjYWxhLXBhcmFsbGVsL3NjYWxhL3BhcmFsbGVsL3JlZHVjdGlvbnMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFBn/6WsJyEulZuhmxRusrTswGywR
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwM6QFYAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAA1c3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwAQYIKHQABm5vdGlmeXNxAH4ADHCgTu50AAd1bmFwcGx5c3EAfgAMBnAByXQAB2N1cnJpZWRzcQB+AAz6ApWBdAAHdXBzd2VlcHNxAH4ADFqixPp0AAR3YWl0c3EAfgAMJ03O3nQADmNvcHkkZGVmYXVsdCQyc3EAfgAMmW6n/3QADSRhc0luc3RhbmNlT2ZzcQB+AAxawHVJdAAMcHJvZHVjdEFyaXR5c3EAfgAMGAZU+3QABmVxdWFsc3NxAH4ADBnyk0x0AAxhc0luc3RhbmNlT2ZzcQB+AAw4l8sedAAMc3luY2hyb25pemVkc3EAfgAMZriNtXQABGxlZnRzcQB+AAwnKtlGdAAEVHJlZXNxAH4ADBqtbeF0AA0kaXNJbnN0YW5jZU9mc3EAfgAMXMM3RXQABE5vZGVzcQB+AAxn4/ImdAARTGluZU9mU2lnaHRSdW5uZXJzcQB+AAwox/cudAAGdHVwbGVkc3EAfgAMz+Sue3QAEXVwc3dlZXBTZXF1ZW50aWFsc3EAfgAMUTu3j3QAC2xpbmVPZlNpZ2h0c3EAfgAMACFjlXQACGNhbkVxdWFsc3EAfgAMQGYy7HQABG1haW5zcQB+AAzWZwKYdAAETGVhZnNxAH4ADAe0F2Z0AA1wcm9kdWN0UHJlZml4c3EAfgAMgjaShnQABXVudGlsc3EAfgAM07FxfnQACW5vdGlmeUFsbHNxAH4ADHBt5s90AAxpc0luc3RhbmNlT2ZzcQB+AAxyH408dAATZG93bnN3ZWVwU2VxdWVudGlhbHNxAH4ADIKqXgh0AAlkb3duc3dlZXBzcQB+AAz8VONUdAAGPGluaXQ+c3EAfgAM3clyn3QAA21heHNxAH4ADGUXyjt0AA5wYXJMaW5lT2ZTaWdodHNxAH4ADIjNNsJ0AAVhcHBseXNxAH4ADN/8tCd0AAI9PXNxAH4ADOmtLoZ0AAVjbG9uZXNxAH4ADMatnwF0AARmcm9tc3EAfgAMCpoPP3QABiRpbml0JHNxAH4ADCKlVyF0AA5jb3B5JGRlZmF1bHQkM3NxAH4ADAhqrdp0AARjb3B5c3EAfgAMeVTZVXQACHRvU3RyaW5nc3EAfgAMv/IC9nQADnN0YW5kYXJkQ29uZmlnc3EAfgAM73h6NnQAAiE9c3EAfgAM5Cf0XnQAC0xpbmVPZlNpZ2h0c3EAfgAMrT30f3QACGdldENsYXNzc3EAfgAMbiNoW3QADmNvcHkkZGVmYXVsdCQxc3EAfgAMy82q3HQAAm5lc3EAfgAMRg4b83QAAmVxc3EAfgAM2GC2YnQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADHzYjux0AAVyaWdodHNxAH4ADCwbJa10AAIjI3NxAH4ADBtvnYZ0AAhmaW5hbGl6ZXNxAH4ADE2fpkZ0AA5wcm9kdWN0RWxlbWVudHNxAH4ADH7jZQF0AAhoYXNoQ29kZXNxAH4ADBxt4hZ0AAttYXhQcmV2aW91c3NyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AIF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABxyZWR1Y3Rpb25zLkxpbmVPZlNpZ2h0UnVubmVydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCZc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AIFMAAlpbmhlcml0ZWRxAH4AgUwAB3BhcmVudHNxAH4AgXhxAH4AnnNxAH4AmXVxAH4AfAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AgnEAfgCLdXEAfgCMAAAAAHNxAH4AjgBxAH4AN3VxAH4AkQAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCddAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AnXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AuXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AKZ4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AJR0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AK1bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AJ1zcQB+AKx0AAVBcnJheXEAfgCydXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AKx0AAZTdHJpbmdzcQB+ALBzcQB+ALN1cQB+ALYAAAADc3EAfgC4dAAEamF2YXNxAH4AuHQABGxhbmdxAH4AvXNxAH4AmXVxAH4AfAAAAABzcQB+AJl1cQB+ANEAAAACc3EAfgCsdAAGT2JqZWN0cQB+ANVzcQB+AKx0AANBbnlxAH4AsnNxAH4AfnEAfgCLdXEAfgCMAAAAAHNxAH4AjgB0ABZyZWR1Y3Rpb25zLkxpbmVPZlNpZ2h0dXEAfgCRAAAAAHEAfgCVdXEAfgCXAAAAAHNxAH4AmXEAfgCfc3EAfgCZc3EAfgChc3EAfgCZdXEAfgB8AAAAAHNxAH4AmXVxAH4AfAAAAABzcQB+AJl1cQB+ANEAAAACc3EAfgCscQB+AOFzcQB+ALBzcQB+ALN1cQB+ALYAAAADc3EAfgC4cQB+ANlzcQB+ALhxAH4A23EAfgC9c3EAfgCscQB+AONzcQB+ALBzcQB+ALN1cQB+ALYAAAACc3EAfgC4cQB+ALtxAH4AvXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACnJlZHVjdGlvbnNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWfhQmkTdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAYy9ob21lL21pa2NvcmVyL2NvdXJzZXJhL2NvdXJzZXJhLXNjYWxhLXBhcmFsbGVsL3NjYWxhL3BhcmFsbGVsL3JlZHVjdGlvbnMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFJ+s1c33tVfbQpxgP6m7Dirlv1jG
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhws1dCCQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAgc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwB4FRMnQABm5vdGlmeXNxAH4ADAyCtWB0AAlUaHJlc2hvbGRzcQB+AAxUhWeMdAAEd2FpdHNxAH4ADBVAn250ABlQYXJhbGxlbENvdW50Q2hhbmdlUnVubmVyc3EAfgAMNEGsHHQADSRhc0luc3RhbmNlT2ZzcQB+AAxxakq8dAAGZXF1YWxzc3EAfgAMrD6SqXQAEWNvbWJpbmVkVGhyZXNob2xkc3EAfgAMY7UMl3QADm1vbmV5VGhyZXNob2xkc3EAfgAM/QZn+3QADGFzSW5zdGFuY2VPZnNxAH4ADGakKEN0AAxzeW5jaHJvbml6ZWRzcQB+AAw44PW7dAAJcGFyUmVzdWx0c3EAfgAMFFsshHQADSRpc0luc3RhbmNlT2ZzcQB+AAyJYXpydAATUGFyYWxsZWxDb3VudENoYW5nZXNxAH4ADK2p7ul0AARtYWluc3EAfgAMOItWgnQACW5vdGlmeUFsbHNxAH4ADGnqrTZ0AAxpc0luc3RhbmNlT2ZzcQB+AAxECg7+dAACPT1zcQB+AAzwFA7edAAFY2xvbmVzcQB+AAwDYkS1dAAIdG9TdHJpbmdzcQB+AAzeY0TQdAAOc3RhbmRhcmRDb25maWdzcQB+AAxUfAbjdAACIT1zcQB+AAwnV4xFdAAIZ2V0Q2xhc3NzcQB+AAwZP050dAAJc2VxUmVzdWx0c3EAfgAMJBfOu3QAC2NvdW50Q2hhbmdlc3EAfgAMBgbLzXQAAm5lc3EAfgAM2m2iznQAE3RvdGFsQ29pbnNUaHJlc2hvbGRzcQB+AAxakvp2dAAOcGFyQ291bnRDaGFuZ2VzcQB+AAzFMtQBdAASY2hlY2tNb25leUFuZENvaW5zc3EAfgAM/XeDT3QAAmVxc3EAfgAMpQUbYXQAAiMjc3EAfgAM2o+iu3QACGZpbmFsaXplc3EAfgAMJ69l33QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AV3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAJHJlZHVjdGlvbnMuUGFyYWxsZWxDb3VudENoYW5nZVJ1bm5lcnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4Ab3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBXTAAJaW5oZXJpdGVkcQB+AFdMAAdwYXJlbnRzcQB+AFd4cQB+AHRzcQB+AG91cQB+AFIAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AFhxAH4AYXVxAH4AYgAAAABzcQB+AGQAcQB+ACl1cQB+AGcAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Ac3QABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHNzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AI91cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgB8eHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBqdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCDWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBzc3EAfgCCdAAFQXJyYXlxAH4AiHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgCCdAAGU3RyaW5nc3EAfgCGc3EAfgCJdXEAfgCMAAAAA3NxAH4AjnQABGphdmFzcQB+AI50AARsYW5ncQB+AJNzcQB+AG91cQB+AFIAAAAAc3EAfgBvdXEAfgCnAAAAAnNxAH4AgnQABk9iamVjdHEAfgCrc3EAfgCCdAADQW55cQB+AIhzcQB+AFRxAH4AYXVxAH4AYgAAAABzcQB+AGQAdAAecmVkdWN0aW9ucy5QYXJhbGxlbENvdW50Q2hhbmdldXEAfgBnAAAAAHEAfgBrdXEAfgBtAAAAAHNxAH4Ab3EAfgB1c3EAfgBvc3EAfgB3c3EAfgBvdXEAfgBSAAAAAHNxAH4Ab3VxAH4AUgAAAABzcQB+AG91cQB+AKcAAAACc3EAfgCCcQB+ALdzcQB+AIZzcQB+AIl1cQB+AIwAAAADc3EAfgCOcQB+AK9zcQB+AI5xAH4AsXEAfgCTc3EAfgCCcQB+ALlzcQB+AIZzcQB+AIl1cQB+AIwAAAACc3EAfgCOcQB+AJFxAH4Ak3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACnJlZHVjdGlvbnNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWfg9ol9dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAYy9ob21lL21pa2NvcmVyL2NvdXJzZXJhL2NvdXJzZXJhLXNjYWxhLXBhcmFsbGVsL3NjYWxhL3BhcmFsbGVsL3JlZHVjdGlvbnMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFBFMaNaaMeEwpab+u9/P9t3n/vjr
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw4VqJPwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAbc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwierQkXQABm5vdGlmeXNxAH4ADI9BLVp0AAR3YWl0c3EAfgAMfOt8KnQADSRhc0luc3RhbmNlT2ZzcQB+AAwapKgYdAAGZXF1YWxzc3EAfgAMjFeu13QADGFzSW5zdGFuY2VPZnNxAH4ADE3e/hN0AAxzeW5jaHJvbml6ZWRzcQB+AAz5Ay9SdAAJcGFyUmVzdWx0c3EAfgAM2VETgnQADSRpc0luc3RhbmNlT2ZzcQB+AAxynffBdAAKcGFyQmFsYW5jZXNxAH4ADO/uaat0AAdiYWxhbmNlc3EAfgAMK9K84XQABG1haW5zcQB+AAxHpqYsdAAJbm90aWZ5QWxsc3EAfgAMEN++h3QADGlzSW5zdGFuY2VPZnNxAH4ADGEEOmN0AAI9PXNxAH4ADIQ6DCl0AAVjbG9uZXNxAH4ADFqLlnt0ACJQYXJhbGxlbFBhcmVudGhlc2VzQmFsYW5jaW5nUnVubmVyc3EAfgAMg5NwwXQACHRvU3RyaW5nc3EAfgAMk6XZcnQADnN0YW5kYXJkQ29uZmlnc3EAfgAMOv2y/XQAAiE9c3EAfgAMb8yAUXQACGdldENsYXNzc3EAfgAMrqNWKHQACXNlcVJlc3VsdHNxAH4ADOzy5XZ0AAJuZXNxAH4ADCLXOFV0AAJlcXNxAH4ADHNg9oN0AAIjI3NxAH4ADIW7ZyN0AAhmaW5hbGl6ZXNxAH4ADK7EEVx0AAhoYXNoQ29kZXNxAH4ADEWi2DB0ABxQYXJhbGxlbFBhcmVudGhlc2VzQmFsYW5jaW5nc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ATXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQALXJlZHVjdGlvbnMuUGFyYWxsZWxQYXJlbnRoZXNlc0JhbGFuY2luZ1J1bm5lcnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AZXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBNTAAJaW5oZXJpdGVkcQB+AE1MAAdwYXJlbnRzcQB+AE14cQB+AGpzcQB+AGV1cQB+AEgAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AE5xAH4AV3VxAH4AWAAAAABzcQB+AFoAcQB+ACN1cQB+AF0AAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AaXQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGlzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIV1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgByeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBgdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgB5WwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBpc3EAfgB4dAAFQXJyYXlxAH4AfnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgB4dAAGU3RyaW5nc3EAfgB8c3EAfgB/dXEAfgCCAAAAA3NxAH4AhHQABGphdmFzcQB+AIR0AARsYW5ncQB+AIlzcQB+AGV1cQB+AEgAAAAAc3EAfgBldXEAfgCdAAAAAnNxAH4AeHQABk9iamVjdHEAfgChc3EAfgB4dAADQW55cQB+AH5zcQB+AEpxAH4AV3VxAH4AWAAAAABzcQB+AFoAdAAncmVkdWN0aW9ucy5QYXJhbGxlbFBhcmVudGhlc2VzQmFsYW5jaW5ndXEAfgBdAAAAAHEAfgBhdXEAfgBjAAAAAHNxAH4AZXEAfgBrc3EAfgBlc3EAfgBtc3EAfgBldXEAfgBIAAAAAHNxAH4AZXVxAH4ASAAAAABzcQB+AGV1cQB+AJ0AAAACc3EAfgB4cQB+AK1zcQB+AHxzcQB+AH91cQB+AIIAAAADc3EAfgCEcQB+AKVzcQB+AIRxAH4Ap3EAfgCJc3EAfgB4cQB+AK9zcQB+AHxzcQB+AH91cQB+AIIAAAACc3EAfgCEcQB+AIdxAH4AiXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACnJlZHVjdGlvbnNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWfg7PdzdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAYy9ob21lL21pa2NvcmVyL2NvdXJzZXJhL2NvdXJzZXJhLXNjYWxhLXBhcmFsbGVsL3NjYWxhL3BhcmFsbGVsL3JlZHVjdGlvbnMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFLEhf4q/W1lRUF4HERA6q/JrFOM5
+external apis:
+0 items
+source infos:
+4 items
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/common/package.scala -> 
+AAAAAAAAAAA=
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/LineOfSight.scala -> 
+AAAAAAAAAAA=
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelCountChange.scala -> 
+AAAAAAAAAAA=
+/home/mikcorer/coursera/coursera-scala-parallel/scala/parallel/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> 
+AAAAAAAAAAA=
+compilations:
+6 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZ+Ds93N1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYy9ob21lL21pa2NvcmVyL2NvdXJzZXJhL2NvdXJzZXJhLXNjYWxhLXBhcmFsbGVsL3NjYWxhL3BhcmFsbGVsL3JlZHVjdGlvbnMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZ+D2iX11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYy9ob21lL21pa2NvcmVyL2NvdXJzZXJhL2NvdXJzZXJhLXNjYWxhLXBhcmFsbGVsL3NjYWxhL3BhcmFsbGVsL3JlZHVjdGlvbnMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZ+EBi2N1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYy9ob21lL21pa2NvcmVyL2NvdXJzZXJhL2NvdXJzZXJhLXNjYWxhLXBhcmFsbGVsL3NjYWxhL3BhcmFsbGVsL3JlZHVjdGlvbnMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZ+EOaAl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYy9ob21lL21pa2NvcmVyL2NvdXJzZXJhL2NvdXJzZXJhLXNjYWxhLXBhcmFsbGVsL3NjYWxhL3BhcmFsbGVsL3JlZHVjdGlvbnMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZ+Eua6h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYy9ob21lL21pa2NvcmVyL2NvdXJzZXJhL2NvdXJzZXJhLXNjYWxhLXBhcmFsbGVsL3NjYWxhL3BhcmFsbGVsL3JlZHVjdGlvbnMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZ+FCaRN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYy9ob21lL21pa2NvcmVyL2NvdXJzZXJhL2NvdXJzZXJhLXNjYWxhLXBhcmFsbGVsL3NjYWxhL3BhcmFsbGVsL3JlZHVjdGlvbnMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=

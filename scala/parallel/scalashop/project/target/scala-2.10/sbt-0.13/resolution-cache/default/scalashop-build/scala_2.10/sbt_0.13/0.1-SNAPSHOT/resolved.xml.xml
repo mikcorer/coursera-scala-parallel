@@ -4,7 +4,7 @@
 		module="scalashop-build"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20181222203203"
+		publication="20181224122604"
 		e:sbtVersion="0.13" e:scalaVersion="2.10"
 	>
 		<description>
