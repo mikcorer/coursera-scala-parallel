@@ -13,7 +13,7 @@ object LineOfSightRunner {
   ) withWarmer(new Warmer.Default)
 
   def main(args: Array[String]) {
-    val length = 10000000
+    val length = 20000000
     val input = (0 until length).map(_ % 100 * 1.0f).toArray
     val output = new Array[Float](length + 1)
     val seqtime = standardConfig measure {
@@ -92,10 +92,7 @@ object LineOfSight {
     startingAngle: Float, from: Int, until: Int): Unit = {
     var maxAngle: Float = startingAngle
     var i = from
-    if (i == 0) {
-      output(i) = maxAngle
-      i += 1
-    }
+    if (i == 0) i += 1
     while (i < until) {
       maxAngle = maxAngle max (input(i) / i)
       output(i) = maxAngle
